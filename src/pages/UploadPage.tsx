@@ -13,7 +13,14 @@ export default function UploadPage() {
   const navigate = useNavigate();
 
   const handleAnalyze = async () => {
-    if (!jobDescription || !files || files.length === 0) return;
+    if (!jobDescription) {
+      alert('Please enter a job description before analyzing.');
+      return;
+    }
+    if (!files || files.length === 0) {
+      alert('Please upload at least one resume file.');
+      return;
+    }
 
     setIsAnalyzing(true);
     
@@ -95,7 +102,7 @@ export default function UploadPage() {
         <Button 
           size="lg" 
           onClick={handleAnalyze} 
-          disabled={isAnalyzing || !jobDescription || !files || files.length === 0}
+          disabled={isAnalyzing}
         >
           {isAnalyzing ? (
             <>
