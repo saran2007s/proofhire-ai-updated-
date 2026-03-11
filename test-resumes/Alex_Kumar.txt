@@ -1,0 +1,16 @@
+Name: Alex Kumar
+
+Github: alexdev99
+
+Skills:
+JavaScript
+React
+Node.js
+MongoDB
+Express
+REST APIs
+
+Projects:
+E-commerce Web Application
+Task Management System
+Portfolio Website

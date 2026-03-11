@@ -1,0 +1,16 @@
+Name: John Doe
+
+Github: johndoe123
+
+Skills:
+Python
+Machine Learning
+NLP
+TensorFlow
+FastAPI
+Data Analysis
+
+Projects:
+AI Resume Parser
+Chatbot using NLP
+Sentiment Analysis Tool

@@ -1,0 +1,15 @@
+Name: Rahul Mehta
+
+Github: rahulcloud
+
+Skills:
+AWS
+Docker
+Kubernetes
+Terraform
+Linux
+
+Projects:
+Cloud Infrastructure Deployment
+Containerized Web Application
+CI/CD Automation Pipeline

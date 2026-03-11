@@ -1,0 +1,15 @@
+Name: Emily Carter
+
+Github: emilyml
+
+Skills:
+Python
+Machine Learning
+NLP
+Scikit-Learn
+TensorFlow
+
+Projects:
+Spam Detection Model
+Recommendation System
+Document Classification System

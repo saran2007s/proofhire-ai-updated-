@@ -1,0 +1,15 @@
+Name: Sarah Williams
+
+Github: sarah-ai
+
+Skills:
+Python
+Deep Learning
+PyTorch
+Computer Vision
+Machine Learning
+
+Projects:
+Image Classification Model
+Face Recognition System
+Object Detection Pipeline

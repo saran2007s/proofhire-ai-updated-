@@ -1,0 +1,18 @@
+Name: Saran Selvaraj
+
+Python Developer
+Machine Learning Enthusiast
+
+Skills:
+Python
+Machine Learning
+Deep Learning
+TensorFlow
+PyTorch
+Pandas
+NumPy
+FastAPI
+
+Projects:
+Built a machine learning model for fraud detection using Python and Scikit-Learn.
+Developed APIs using FastAPI.

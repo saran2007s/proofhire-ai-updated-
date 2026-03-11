@@ -1,0 +1,15 @@
+Name: Mark Lee
+
+Github: markcodes
+
+Skills:
+HTML
+CSS
+JavaScript
+Bootstrap
+React
+
+Projects:
+Landing Page Builder
+Portfolio Website
+Restaurant Ordering System

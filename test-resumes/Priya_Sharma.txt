@@ -1,0 +1,16 @@
+Name: Priya Sharma
+
+Github: priyadev
+
+Skills:
+Python
+Django
+FastAPI
+PostgreSQL
+Docker
+REST APIs
+
+Projects:
+Blog Backend API
+Authentication Service
+Microservices Backend System

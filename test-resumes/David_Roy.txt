@@ -1,0 +1,16 @@
+Name: David Roy
+
+Github: davidroydata
+
+Skills:
+Python
+Pandas
+NumPy
+Machine Learning
+Data Visualization
+Scikit-Learn
+
+Projects:
+Stock Price Prediction
+Customer Segmentation Model
+Sales Forecasting System
